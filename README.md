@@ -7,5 +7,5 @@ Currently enrolled as an exchange student in NTNU. <br>
 Deeply in love with outdoor and team sports. <br>
 <br>
 You can reach me on:<br>
-konradiv@stud.ntnu.no
+konradiv@stud.ntnu.no <br>
 konrad.ivelic@ug.uchile.cl
