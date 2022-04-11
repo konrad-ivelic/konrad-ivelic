@@ -8,7 +8,6 @@ Deeply in love with outdoor and team sports. <br>
 <br>
 
 <h2> Contact me: </h2>
-
 <a 
    href="mailto:konrad.ivelic18@gmail.com"
 >
@@ -17,7 +16,6 @@ Deeply in love with outdoor and team sports. <br>
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
-
 <a
     href="https://t.me/konrad_ivelic"
 >
@@ -26,7 +24,6 @@ Deeply in love with outdoor and team sports. <br>
         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
     />
 </a>
-
 <a
     href="https://www.linkedin.com/in/konrad-ivelic"
 >
