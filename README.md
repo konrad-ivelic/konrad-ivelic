@@ -13,21 +13,20 @@ Deeply in love with outdoor and team sports. <br>
    href="mailto:konrad.ivelic18@gmail.com"
 >
     <img
-         style="margin-right: 10px;"
-         align="center"
+         style="margin-right: 10px;" align="center"
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
 </a>
 
 <a
-    href="https://t.me/konrad_ivelic/"
+    href="https://t.me/konrad_ivelic"
 >
     <img
-        style="margin-right: 10px;"
-        align="center"
+        style="margin-right: 10px;" align="center"
         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
     />
 </a>
+
 <a
     href="https://www.linkedin.com/in/konrad-ivelic"
 >
